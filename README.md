@@ -15,3 +15,10 @@ Building bots for social media like Facebook or Instagram or popular among progr
 Python can serve as a scripting language for web applications.  Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask, Bottle and Zope support developers in the design and maintenance of complex applications. Pyjs and IronPython can be used to develop the client-side of Ajax-based applications. SQLAlchemy can be used as data mapper to a relational database. Twisted is a framework to program communications between computers, and is used (for example) by Dropbox.
 
 Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing. These libraries are covered in paph as part of Data Science Specialization. You'll get familiar with Anaconda and Jupiter Notebook.
+
+## The Fundamentals
+
+| Progress | Type | Item | Project(s) | Date |
+| :------: | ------ | ------ | ------------ | :-------: |
+|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
+
