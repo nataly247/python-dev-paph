@@ -24,7 +24,11 @@ Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python 
 |  | Course | [Computer Science Path](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on codecademy |  ||
 
 ## Git, Github & Command Line
+| Progress | Type | Item | Project(s) | Date |
+| :------: | ------ | ------ | ------------ | :-------: |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |  | Course | Learn [Command line with codecademy](https://www.codecademy.com/learn/learn-the-command-line)|  ||
 |  | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
+
+
