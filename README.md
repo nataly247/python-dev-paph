@@ -31,5 +31,7 @@ Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python 
 |  | Course | [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775) |   |    |
 |  | Course | Learn [Command line with codecademy](https://www.codecademy.com/learn/learn-the-command-line)|  ||
 |  | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
+|  | Course | [Git How To (Ukrainian language)](https://githowto.com/uk)|  ||
+|  | Course | [Git Immersion](http://gitimmersion.com/)|  ||
 
 
