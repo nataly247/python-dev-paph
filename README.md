@@ -20,8 +20,8 @@ Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python 
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
-|  | Course | [Computer Science Path](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on codecademy |  ||
+|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX includes veriety of subjects and gives solid basics |  ||
+|  | Course | [Computer Science Path](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on codecademy based on Python programming |  ||
 
 ## Git, Github & Command Line
 | Progress | Type | Item | Project(s) | Date |
