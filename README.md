@@ -34,16 +34,16 @@ Artificial Intelligence and Machine Learning.
 ## Git, Github & Command Line
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
-|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) |   |    |
-|  | Course | [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775) |   |    |
-|  | Course | Learn [Command line with codecademy](https://www.codecademy.com/learn/learn-the-command-line)|  ||
-|  | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
-|  | Course | [Git How To (Ukrainian language)](https://githowto.com/uk)|  ||
-|  | Course | [Git Immersion](http://gitimmersion.com/)|  ||
+| | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
+| | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) |   |    |
+| | Course | [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775) |   |    |
+| | Course | Learn [Command line with codecademy](https://www.codecademy.com/learn/learn-the-command-line)|  ||
+| | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
+| | Course | [Git How To (Ukrainian language)](https://githowto.com/uk)|  ||
+| | Course | [Git Immersion](http://gitimmersion.com/)|  ||
 
 ## Python Basics
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [Python for Everybody Specialization] Coursera(https://www.coursera.org/specializations/python)|  ||
-| Project | Make a todo list webapp |   |    |
+| | Course | [Python for Everybody Specialization] Coursera(https://www.coursera.org/specializations/python)|  ||
+| | Project | Make a todo list webapp |   |    |
