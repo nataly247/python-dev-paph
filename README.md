@@ -41,6 +41,9 @@ Artificial Intelligence and Machine Learning.
 | | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
 | | Course | [Git How To (Ukrainian language)](https://githowto.com/uk)|  ||
 | | Course | [Git Immersion](http://gitimmersion.com/)|  ||
+| | Book | [Pro Git book] written by Scott Chacon and Ben Straub (https://git-scm.com/book/en/v2) |  || 
+| | Video | [Git & GitHub] by freeCodeCamp.org (https://youtu.be/vR-y_2zWrIE) |  ||
+
 
 ## Python Basics
 | Progress | Type | Item | Project(s) | Date |
