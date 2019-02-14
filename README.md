@@ -50,7 +50,7 @@ Artificial Intelligence and Machine Learning.
 | :------: | ------ | ------ | ------------ | :-------: |
 | | Course | [Python for Everybody Specialization] Coursera(https://www.coursera.org/specializations/python)|  ||
 | | Project | Make a todo list webapp |   |    |
-| | Documentation | |   |    |
+| | Documentation | [python.org Tutorial](https://docs.python.org/3/tutorial/index.html) |   |    |
 
 ## Testing in Python
 | | Documentation | [python.org Official Documentation] (https://docs.python.org/3/library/unittest.html)|  ||
