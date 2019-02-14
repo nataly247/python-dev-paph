@@ -2,7 +2,7 @@
 
 The idea behind this repo is to have a place with all the best learning resourses organized by subjects.
 
-Starting from very basic knowledge this paph leads to data science in finances and algotrading. But it also covers other subjects. It contain of veriety of resourses so you can choose among them and find the one that fits best to you and match your needs. 
+Starting from a very basic knowledge this paph leads to more proficient subjects like data science. And it covers many other subjects on its way. The Path contains a veriety of resourses. I'm not trying to overthelm anyone. It just gives you an opportunity to choose among all the resourses and find the one or couple that fits best to you, your learning approach and match your needs. I mean, some people prefer to read documentations, articles, some rather be watching video tutorials. Just don't forget how important is to get your hands dirty and practice by writing code.
 
 Python is a general-purpose programming language. We'll start from creating simple programs being able to automate some boring everyday tasks. 
 
@@ -22,7 +22,9 @@ Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python 
 
 Data Visualization and Data Analysis are highly developing fields activly using Python language.
 
-Artificial Intelligence and Machine Learning.
+Artificial Intelligence and Machine Learning are fields there Python is gaining its popularity.
+
+This Path also covers Python for Finance Analysis and Algotrading which are my fields of interest. And creating Blockchain with Python.
 
 ## The Fundamentals
 
@@ -41,17 +43,19 @@ Artificial Intelligence and Machine Learning.
 | | Course | Learn [Git with codecademy](https://www.codecademy.com/learn/learn-git)|  ||
 | | Course | [Git How To (Ukrainian language)](https://githowto.com/uk)|  ||
 | | Course | [Git Immersion](http://gitimmersion.com/)|  ||
-| | Book | [Pro Git book] written by Scott Chacon and Ben Straub (https://git-scm.com/book/en/v2) |  || 
-| | Video | [Git & GitHub] by freeCodeCamp.org (https://youtu.be/vR-y_2zWrIE) |  ||
+| | Book | [Pro Git book](https://git-scm.com/book/en/v2)  written by Scott Chacon and Ben Straub |  || 
+| | Video | [Git & GitHub](https://youtu.be/vR-y_2zWrIE)  by freeCodeCamp.org |  ||
 
 
 ## Python Basics
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-| | Course | [Python for Everybody Specialization] Coursera(https://www.coursera.org/specializations/python)|  ||
+| | Course | [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by  Coursera|  ||
 | | Project | Make a todo list webapp |   |    |
 | | Documentation | [python.org Tutorial](https://docs.python.org/3/tutorial/index.html) |   |    |
 
 ## Testing in Python
+| Progress | Type | Item | Project(s) | Date |
+| :------: | ------ | ------ | ------------ | :-------: |
 | | Documentation | [python.org Official Documentation] (https://docs.python.org/3/library/unittest.html)|  ||
-| | Article | from FreeCodeCamp [An introduction to testing in Python] (https://medium.freecodecamp.org/testing-in-python-c6b903eb247d)|  || 
+| | Article |[An introduction to testing in Python](https://medium.freecodecamp.org/testing-in-python-c6b903eb247d) from FreeCodeCamp |  || 
