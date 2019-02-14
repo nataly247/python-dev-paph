@@ -50,3 +50,8 @@ Artificial Intelligence and Machine Learning.
 | :------: | ------ | ------ | ------------ | :-------: |
 | | Course | [Python for Everybody Specialization] Coursera(https://www.coursera.org/specializations/python)|  ||
 | | Project | Make a todo list webapp |   |    |
+| | Documentation | |   |    |
+
+## Testing in Python
+| | Documentation | [python.org Official Documentation] (https://docs.python.org/3/library/unittest.html)|  ||
+| | Article | from FreeCodeCamp [An introduction to testing in Python] (https://medium.freecodecamp.org/testing-in-python-c6b903eb247d)|  || 
